@@ -1,5 +1,7 @@
 package main
 
+// 启动一个协程
+
 import (
 	"fmt"
 	"time"
