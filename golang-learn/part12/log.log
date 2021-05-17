@@ -1,0 +1,5 @@
+2021/05/17 17:26:44.438655 F:/gospace/src/golang-learn/part12/4-log.go:21: 这是自定义的logger记录的日志。
+2021/05/17 17:27:19.254646 F:/gospace/src/golang-learn/part12/4-log.go:21: 这是自定义的logger记录的日志。
+2021/05/17 17:27:19.269647 F:/gospace/src/golang-learn/part12/4-log.go:22: 这是一条会触发fatal的日志。
+2021/05/17 17:28:01.260049 F:/gospace/src/golang-learn/part12/4-log.go:21: 这是自定义的logger记录的日志。
+2021/05/17 17:28:01.275049 F:/gospace/src/golang-learn/part12/4-log.go:22: 这是一条会触发fatal的日志。
